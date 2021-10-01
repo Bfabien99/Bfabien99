@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bfabien99
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on PHP poject and all PHP project
+- 💞️ I’m looking to collaborate on PHP poject and all PHP developpers
 - 📫 How to reach me ...
 
 <!---
