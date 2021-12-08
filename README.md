@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on PHP project, web project and all PHP developpers
-- 📫 How to reach me ...
+- 📫 fabienbrou99@gmail.com
 
 <!---
 Bfabien99/Bfabien99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
